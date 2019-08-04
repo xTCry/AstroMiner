@@ -1,6 +1,6 @@
 # AstroMiner - Miner for AstroMac
 
-> Coin Farmer for AstroMac on Node JS
+> Coin Farmer for AstroMac
 
 **Release soon...**
 
